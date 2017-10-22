@@ -1,4 +1,6 @@
 # ember-cli-table-pagination
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/andyhot/ember-cli-table-pagination.svg)](https://greenkeeper.io/)
 makes it easy to build remote backed tables w/ ember-cli-pagination and bootstrap
 
 This README outlines the details of collaborating on this Ember addon.
